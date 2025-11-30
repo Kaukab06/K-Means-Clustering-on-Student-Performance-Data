@@ -1,12 +1,8 @@
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/2647fc72-a316-4e59-a713-94bd90d79538" width="850">
-</p>
 
 <h1 align="center">K-Means Clustering on Student Performance Data</h1>
 
 <p align="center">Unsupervised Machine Learning | Data Segmentation | Visualization</p>
 
-# K-Means Clustering on Student Performance Data
 
 This project applies K-Means Clustering, an unsupervised machine learning technique, to group students based on their performance patterns. Using the WCSS (Within Cluster Sum of Squares) and Elbow Method, the optimal number of clusters is identified and visualized. The clusters are then plotted with different colors to observe how students are grouped based on similarity in their performance metrics.
 
